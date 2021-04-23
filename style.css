@@ -128,15 +128,8 @@ header div {
     vertical-align: bottom;
 }
 
-.itemh1 {
-    margin-top: 100px;
-}
 
-.item,
-.itemh,
-.itemh1 {
-    height: 270px;
-}
+
 
 table {
     width: 500px;
@@ -147,7 +140,6 @@ th {
     vertical-align: top;
     text-align: left;
     padding-left: 30px;
-    width: 150px;
     font-size: 25px;
 }
 
@@ -155,6 +147,7 @@ td {
     vertical-align: top;
     text-align: left;
     padding-left: 0;
+    padding-bottom: 20px;
 }
 
 .itemh1 table {
